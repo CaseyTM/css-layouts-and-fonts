@@ -1,0 +1,18 @@
+div {
+	border: 1px solid black;
+}
+.site-header{
+	background-image: url("../img/header-background.jpg");
+	height: 35vw;
+	width: 100vw;
+}
+ul {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	justify-content: space-around;
+}
+li img {
+	height: 20vw;
+	width: 20vw;
+}
